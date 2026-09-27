@@ -1,0 +1,6 @@
+{
+  "name": "Sentilens - NLP Sentiment Analysis",
+  "description": "Educational AI/NLP sentiment analysis web application classifying text into Positive, Negative, and Neutral categories using TF-IDF feature extraction and Multinomial Logistic Regression for major project demonstration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
